@@ -1729,3 +1729,7 @@ section {
 .spacex {
     margin-bottom: 10px;
 }
+
+.responsive {
+    max-width: 100%;
+}
